@@ -1,5 +1,5 @@
 package java_assignment_1;
-
+//question number 1
 import java.util.Scanner;
 
 public class armstrongNumber {
