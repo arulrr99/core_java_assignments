@@ -1,3 +1,4 @@
+//Question number 2
 package java_assignment_1;
 
 public class armstrongNumberInRange {
