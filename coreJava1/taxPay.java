@@ -1,3 +1,4 @@
+//Question number 6
 package java_assignment_1;
 import java.util.Scanner;
 public class taxPay {
