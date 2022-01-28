@@ -15,7 +15,7 @@ public class arithmeticException {
             // Exception handler
             System.out.println("Divided by zero operation cannot be possible");
         }
-        System.out.println("Arul");
+        
 	}
 
 }
